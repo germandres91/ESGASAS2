@@ -1,0 +1,15 @@
+User-agent: *
+Allow: /
+
+# Sitemap
+Sitemap: https://esgasas.com/sitemap.xml
+
+# Disallow admin or private areas (if any)
+Disallow: /admin/
+Disallow: /private/
+
+# Allow all images
+Allow: /images/
+
+# Allow all HTML pages
+Allow: /*.html
